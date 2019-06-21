@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tanks",
+"productVersion": "1.0",
+"dataUrl": "966b69983a7fd7cf8aad83c28a1c8ba5.unityweb",
+"wasmCodeUrl": "ef1236ea2f165f4d46709fc59b8662e7.unityweb",
+"wasmFrameworkUrl": "b75714f33e2b2932b87e3cbf755c812d.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
